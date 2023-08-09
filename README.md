@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<img src="https://winwin-together-asset.s3.ap-northeast-2.amazonaws.com/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2023-08-10+%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB+1.19.23.png"/>
 
-## Getting Started
 
-First, run the development server:
+## 인스타 콘텐츠 추천
+매일매일 어떤 콘텐츠를 쓸지 고민이죠?
+윈윈투게더가 해결해 드리겠습니다.
+(지금은 날씨와 등록상품이 있어요. 추후 더욱 업데이트될 예정입니다)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## 인스타 문구 및 해시태그 작성
+사진은 찍었고 올릴 콘텐츠는 있는데 어떻게 써야겠지 모르겠다구요?
+윈윈투게더가 도와드리겠습니다.
+간단하게 사진이나 올릴 콘텐츠를 설명만 해 주세요.
+마케팅 대상, 마켓 분위기, 상품 특징들을 고려해서 문구와 해시태그를 만들어 드릴게요.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-[http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.ts`.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 온라인 명함
+고객들에게 마켓 정보를 전달하기 어려우시죠?
+- 기본 정보
+주소, 영업시간, 계좌번호를 알 수 있게 전달해 드려요.
+- 프로필 링크
+마켓 인스타그램, 카카오 오픈 프로필, 스마트 스토어, 자사 쇼핑몰가 담긴 프로필 링크를 담아 전달 할 수 있어요.
+- 판매 상품
+판매 상품들, 판매 상품에 대한 정보 및 판매 링크를 고객분들에게 쉽게 전달 할 수 있습니다.
