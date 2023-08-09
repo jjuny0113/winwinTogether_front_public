@@ -1,0 +1,7 @@
+.warn svg path {
+  fill: #FFA500;
+}
+
+.error svg path {
+  fill: #E85B81;
+}

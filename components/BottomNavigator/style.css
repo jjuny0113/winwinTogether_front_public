@@ -1,0 +1,13 @@
+.bottomNav-active svg path {
+  fill: #fff;
+}
+
+.logout {
+  width: 1.3rem;
+  height: 1.3rem;
+}
+
+.instaUrl{
+  width: 1.5rem;
+  height: 1.5rem;
+}

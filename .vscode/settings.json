@@ -1,0 +1,15 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "editor.tokenColorCustomizations": {
+    "comments": "",
+    "textMateRules": []
+  },
+  "tailwindCSS.classAttributes": [
+    "class",
+    "className",
+    ".*Styles",
+    ".*Tw",
+    ".*tw"
+  ]
+}
